@@ -1,5 +1,4 @@
-# **ReactMi7-Internal Usage
-
+# Reac x TypeScript
 ## Overview
 This is a initial project for React x TypeScript
 - Eslint is already set up, feel free to modify rules in .eslintrc.js
