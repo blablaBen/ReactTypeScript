@@ -1,4 +1,4 @@
-# **ReactMi7-Internal Usage
+# **React Typescript EventEmitter
 
 ## Overview
 This is a initial project for React x TypeScript
