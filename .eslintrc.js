@@ -14,7 +14,8 @@ module.exports = {
         // e.g. "@typescript-eslint/explicit-function-return-type": "off",
 
         // Set the quote to be a single
-        "quotes": [2, "single", { "avoidEscape": true }]
+        "quotes": [2, "single", { "avoidEscape": true }],
+        "@typescript-eslint/ban-types": "off"
     },
     settings: {
         react: {
